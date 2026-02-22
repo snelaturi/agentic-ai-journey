@@ -29,3 +29,7 @@ Thumbs.db
 # Project specific
 logs/
 *.log
+
+#Slingshot
+.slingshot
+week-2/knowledge_base_db/
